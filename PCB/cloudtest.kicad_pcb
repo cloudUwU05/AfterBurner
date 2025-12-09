@@ -133,7 +133,7 @@
 	(net 14 "Net-(J1-Pin_3)")
 	(net 15 "/i2c esp sda")
 	(net 16 "VCC")
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "92fe998b-d056-4690-906f-04a70997b88c")
 		(at 23.75 74.44)
@@ -408,7 +408,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a6fd2a83-1bdc-4776-9f8f-a4f16b4422f2")
 		(at 23.5 64.5)
@@ -672,7 +672,7 @@
 			)
 		)
 	)
-	(footprint "ESP32-C3_SUPERMINI_TH(2):MODULE_ESP32-C3_SUPERMINI"
+	(footprint "Library:MODULE_ESP32-C3_SUPERMINI"
 		(layer "F.Cu")
 		(uuid "b03ba06d-65c3-42d5-adf0-9253b44211eb")
 		(at 35.75 74.65)
